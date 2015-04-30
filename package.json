@@ -1,0 +1,6 @@
+{
+  "name": "classlist.js polyfill",
+  "version": "1",
+  "description": "classList polyfill for IE8 and 9",
+  "main": "classList.js"
+}
