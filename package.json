@@ -1,6 +1,22 @@
 {
-  "name": "classlist.js polyfill",
-  "version": "1",
-  "description": "classList polyfill for IE8 and 9",
-  "main": "classList.js"
+  "name": "classList",
+  "version": "1.0.0",
+  "description": "classlist polyfill",
+  "main": "classList.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samaparorazorfish/classList.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samaparorazorfish/classList.js/issues"
+  },
+  "homepage": "https://github.com/samaparorazorfish/classList.js"
 }
